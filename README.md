@@ -26,7 +26,7 @@ Add your GitHub username once and all of your info will automatically be updated
      ```
 
 1. Navigate to the src directory and open data.js
-1. Add your GitHub username ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L23) lines 23-27)
+1. Add your GitHub username ([data.js] lines 23-27)
 
    - ```javascript
      /* START HERE
