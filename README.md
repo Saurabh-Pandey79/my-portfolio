@@ -8,7 +8,7 @@ Add your GitHub username once and all of your info will automatically be updated
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-![Page Speed](/README_images/speed.png)
+
 
 ### <a href="https://saurabh-pandey79.github.io/my-portfolio/">LIVE DEMO</a>
 
