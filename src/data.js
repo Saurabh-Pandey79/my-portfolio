@@ -33,7 +33,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I am a Senior Customer Success Engineer at CleverTap. I have been working in CleverTap since May 2021 until now. I also teach Mathematics in academies part time. Apart from the cutomer interaction I am also intrigued by the technical aspect of my job.";
+  "I am a Senior Customer Success Engineer at CleverTap. I have been working in CleverTap since May 2021 until now. I also teach Mathematics in academies part time. Apart from the customer interaction I am also intrigued by the technical aspect of my job.";
 
 /* Skills
  ************************************************************** 
