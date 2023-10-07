@@ -95,7 +95,7 @@ export default function Hero() {
           </Col>
           <Col className="d-none d-md-block">
             <img
-              src=""
+              src="https://imgur.com/XATCyVC"
               alt="Saurabh"
               className="w-75 mx-auto hero-img"
             />
